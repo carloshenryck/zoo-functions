@@ -1,0 +1,18 @@
+# O NOME DO ARQUIVO DEVE SER `.gitignore` (ATENTE-SE AO PONTO NO INÍCIO)
+
+# VSCode repo settings
+.vscode
+node_modules/
+.DS_Store
+coverage/
+.github/
+.trybe
+evaluator/
+img/
+.editorconfig
+.eslintignore
+.eslintrc.json
+.npmrc
+trybe.yml
+package-lock.json
+package.json
